@@ -14,7 +14,7 @@ int f(int n)
 
 int main()
 {
-    cout << f(5);
+    cout << f(2);
 
     return 0;
 }
