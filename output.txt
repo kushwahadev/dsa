@@ -1,5 +1,1 @@
-2
-0
-1
-2
-0
+Some content in parent class.Some content in another class.
