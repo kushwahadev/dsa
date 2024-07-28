@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "jai shree ram";
+    cout << "jai shree ram ";
+
     return 0;
 } // namespace std;
